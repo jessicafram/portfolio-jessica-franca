@@ -539,7 +539,7 @@ textarea {
     width: 100%;
     margin: 0;
     border-radius: 16px;
-    background: #05080d;
+    background: #000000;
     display: flex;
     /* Centraliza o conteúdo caso sobre espaço */
     align-items: center;
